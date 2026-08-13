@@ -1,0 +1,1 @@
+echo -e "1.\tMaster the fundamentals \n2.\tLearn by doing\n3.\tUnderstand the "why"\n4.\tPractise regularly\n5.\tDebug effectively\n6.\tRead and analyse code\n7.\tBreak down problems\n8.\tUtilize resources\n9.\tDont fear errors\n10.\tStart small and iterate"
