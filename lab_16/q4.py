@@ -1,0 +1,13 @@
+import math
+degree_angle=float(input("Enter your angle:"))
+radian_angle=math.radians(degree_angle)
+print("Radian Angle:",radian_angle)
+sin_val=math.sin(radian_angle)
+print("Sin :",sin_val)
+cos_val=math.cos(radian_angle)
+print("Cos :",cos_val)
+tan_val=math.tan(radian_angle)
+print("Tan:",tan_val)
+print("Cosec",1/sin_val)
+print("Sec",1/cos_val)
+print("Cot:",1/tan_val)
